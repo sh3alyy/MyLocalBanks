@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ContactSelection" type="id">Contact the bank</item>
+    <item name="WebsiteSelection" type="id">Website</item>
+</resources>
